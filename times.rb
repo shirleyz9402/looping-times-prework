@@ -5,7 +5,8 @@ def using_times
 	  puts "Wingardium Leviosa"
 	  if x >= 7
 	    break
-	  end 
+	  end
+	end 
 end
 
 
