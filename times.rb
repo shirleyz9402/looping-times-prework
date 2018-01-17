@@ -1,6 +1,6 @@
 def using_times
-	x = 0
-	x.times loop do
+	loop do
+	  x = 0
 	  puts "Wingardium Leviosa"
 	  x = x + 1
 end
