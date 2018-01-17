@@ -1,6 +1,6 @@
 def using_times
+	x = 0
 	loop do
-	  x = 0
 	  x = x + 1
 	  puts "Wingardium Leviosa"
 	  if x >= 7
